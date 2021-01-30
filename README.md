@@ -1,15 +1,15 @@
 ### [***Hey you! You're finally awake!***](https://youtu.be/_WZCvQ5J3pk)
 
 <p align=center>
-  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=FiireWiinter&show_icons=true&theme=radical&hide_title=true&count_private=true" />
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiireWiinter&layout=compact&theme=radical" />
+  <img height="148px" src="https://github-readme-stats.vercel.app/api?username=FiireWiinter&show_icons=true&theme=radical&hide_title=true&count_private=true" />
+  <img height="148px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiireWiinter&layout=compact&theme=radical" />
 </p>
 
 ## :sparkles: ***Featured Project***
 `The project that I'm currently working on`
 
 <a href="https://github.com/FiireWiinter/Invite-Management" float="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FiireWiinter&repo=Invite-Management&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FiireWiinter&repo=Invite-Management&theme=radical" height="148" />
 </a>
 
 ## :sparkles: ***2021 Goals***
