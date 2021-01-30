@@ -1,8 +1,8 @@
-### [***Hey you! You're finally awake!***](https://youtu.be/_WZCvQ5J3pk
+### [***Hey you! You're finally awake!***](https://youtu.be/_WZCvQ5J3pk)
 
 <p align=center>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=FiireWiinter&show_icons=true&theme=radical&hide_title=true&count_private=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiireWiinter&layout=compact&theme=radical" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=FiireWiinter&show_icons=true&theme=radical&hide_title=true&count_private=true" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiireWiinter&layout=compact&theme=radical" />
 </p>
 
 ## :sparkles: ***Featured Project***
