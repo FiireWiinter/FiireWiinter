@@ -13,7 +13,7 @@
 </a>
 
 ## :sparkles: ***2021 Goals***
-- Learn more Languages
+- Learn more Languages (especially JS lmao)
 - Commit after i did a small change, and don't leave it there until i do a big one
 - Finish Charterbot
 
