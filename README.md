@@ -15,7 +15,7 @@
 ## :sparkles: ***2021 Goals***
 - Learn more Languages (especially JS lmao)
 - Commit after i did a small change, and don't leave it there until i do a big one
-- Finish Charterbot
+- Finish Charterbot (Cancelled...)
 
 ## :feet: ***Who am i?***
 I am just a random person from Germany making random stuff.
