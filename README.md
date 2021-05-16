@@ -1,5 +1,3 @@
-<-- Hey, you! FUCK OFF -->
-
 ### [***Hey you! You're finally awake!***](https://youtu.be/_WZCvQ5J3pk)
 
 <p align=center>
