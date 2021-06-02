@@ -4,8 +4,8 @@
   <img height="140px" src="https://github-readme-stats.vercel.app/api?username=FiireWiinter&show_icons=true&theme=radical&hide_title=true&count_private=true" />
   <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiireWiinter&layout=compact&theme=radical" />
 </p>
-<p>
-  <img width="140px" src="https://github-readme-stats.vercel.app/api/wakatime?username=FiireWiinter&layout=compact&theme=radical" alt="Wakatime Stats" />
+<p align=center>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FiireWiinter&layout=compact&theme=radical" alt="Wakatime Stats" />
 </p>
 
 ## :sparkles: ***Featured Project***
