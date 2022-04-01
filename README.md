@@ -9,15 +9,15 @@
 </p>
 
 ## :sparkles: ***Featured Project***
-`The project that I'm currently working on`
+`The project that I'm currently working on (or not)`
 
 <a href="https://github.com/FiireWiinter/100DaysX" float="left">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=FiireWiinter&repo=100DaysX&theme=radical" height="140" />
 </a>
 
-## :sparkles: ***2021 Goals***
-- Learn more Languages (especially JS/TS)
-- Commit after i did a small change, and don't leave it there until i do a big one
+## :sparkles: ***2022 Goals***
+- Learn more Languages
+- Don't code at 3 am, and instead get some sleep
 
 ## :feet: ***Who am i?***
 I am just a random person from Germany making random stuff, who is trying to smash his head against TypeScript and NextJS. Fuck me.... Also a developer for [Sheri Blossom](https://www.sheri.bot)
