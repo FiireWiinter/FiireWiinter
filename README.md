@@ -15,10 +15,10 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=FiireWiinter&repo=100DaysX&theme=radical" height="140" />
 </a>
 
-## :sparkles: ***2022 Goals***
+## :sparkles: ***2024 Goals (Totally not just changing the numbers, because i slacked)***
 - Learn more Languages
 - Don't code at 3 am, and instead get some sleep
 
 ## :feet: ***Who am i?***
-I am just a random person from Germany making random stuff, who is trying to smash his head against TypeScript and NextJS. Fuck me.... Also a developer for [Sheri Blossom](https://www.sheri.bot)
+I am just a random person from Germany making random stuff, who is trying to smash his head against TypeScript and NextJS. Fuck me....
 
